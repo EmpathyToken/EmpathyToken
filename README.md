@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @EmpathyToken
+- 👋 Hi, I’m @LeprechaunTown
 - 👀 I’m interested in ... Coding
 - 🌱 I’m currently learning ... Coding
-- 💞️ I’m looking to collaborate on ... $EMP token 
-- 📫 How to reach me ... Twittter @EmpathyToken
+- 💞️ I’m looking to collaborate on ... Leprechuantown 
+- 📫 How to reach me ... Twittter @Leprechauntown_wtf
 
 <!---
 EmpathyToken/EmpathyToken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
